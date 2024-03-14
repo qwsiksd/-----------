@@ -1,0 +1,30 @@
+.qwe1{
+    width: 550px;
+    text-align: center;
+    margin: 0 auto;
+    border: 1px solid;
+    padding: 15px;
+    border-radius: 15px;
+}
+.qwe1 a{
+    color: aliceblue;
+    background-color: black;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+}
+.qwe2 div{
+    color: black;
+    background-color: rgb(240, 240, 20);
+    border-radius: 15px;
+    padding: 10px;
+    width: 300px;
+
+}
+.qwe2{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    
+}

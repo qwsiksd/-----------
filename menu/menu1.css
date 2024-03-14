@@ -1,0 +1,19 @@
+ul{
+    list-style: none;
+    padding-left: 0px;
+}
+li{
+    float: left;
+    margin-right: 7px;
+}
+a{
+    text-decoration: none;
+    color: rgb(235, 139, 223);
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 10px;
+    transition: 2s ease color;
+}
+a:hover{
+color: rgb(10, 184, 36);
+}
